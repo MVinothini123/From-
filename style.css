@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(50, 241, 149);
+    margin: 75px;
+    padding-bottom: 40px;
+    padding-left: 500px;
+}
+.head{
+    padding-right: 480px;
+    text-align: center;
+}
+
+#gender{
+    width: 175px;
+    /* height: 10; */
+}
+
+.details{
+    border: 2px;
+    width: 180px;
+    background-color: rgb(81, 137, 210);
+    padding-inline: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+input[type="Submit"] {
+    background-color: green;
+    color: white;
+    width: 175px;
+
+}
